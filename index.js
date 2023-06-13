@@ -1,1 +1,1 @@
-export { UnathenticatedApp } from './unauthenticated-app';
+export { PerformancePanel } from './performance-panel';
